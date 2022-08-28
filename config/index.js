@@ -17,7 +17,7 @@ export const config = {
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
       {"name": "思亦老婆", "year": "1998", "date": "11-23", "type": 'new'},
-      {"name": "家公", "year": "1998", "date": "03-05", "type": 'new'},
+      {"name": "xiaoleng", "year": "1998", "date": "03-05", "type": 'new'},
     ],
     // 在一起的日子，格式同上
     loveDate: "2022-01-15",
